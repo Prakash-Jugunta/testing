@@ -10,7 +10,8 @@ def bucket_sort(arr):
             index-=1
         buckets[index].append(num)
     sorted_arr=[]
-    zfbzsfb
+    zfbzsfbzvSDSDV
+    SBbv
     SFbvnSDKLVnklS
     for bucket in buckets:
         sorted_arr.extend(sorted(bucket))
